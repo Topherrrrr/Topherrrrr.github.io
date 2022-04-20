@@ -1,0 +1,50 @@
+.bigBG{
+  background-image: url('download.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  overflow:hidden;
+}
+.vidDiv{
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+.bioDiv{
+    position: relative;
+    left: 400px;
+    top: 150px;
+    border-color: black;
+}
+.bioText{
+    position: relative;
+    left: 500px;
+    width:550px;
+    background-color: white;
+    border-top: 10px;
+    border-color: black;
+    word-wrap: break-word;
+    font-family: Helvetica;
+    font-size: 15px;
+    text-decoration-color: black;
+}
+.card1{
+  position:relative;
+  left: 100px;
+  top: 100px;
+  color: inherit;
+}
+.card2{
+  color: inherit;
+  position:relative;
+  left: 500px;
+  top:100px;
+}
+.card3{
+  color:inherit;
+  position: relative;
+  left: 900px;
+  top: 100px;
+}
+
