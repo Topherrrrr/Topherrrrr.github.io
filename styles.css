@@ -1,5 +1,5 @@
 .bigBG{
-  background-image: url('download.jpg');
+  background-image: url('HomePageImages/download.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -14,7 +14,7 @@
 .bioDiv{
     position: relative;
     left: 400px;
-    top: 150px;
+    top: -200px;
     border-color: black;
 }
 .bioText{
@@ -26,25 +26,26 @@
     border-color: black;
     word-wrap: break-word;
     font-family: Helvetica;
+    top:-350px;
     font-size: 15px;
     text-decoration-color: black;
 }
 .card1{
   position:relative;
-  left: 100px;
+  left:120px;
   top: 100px;
   color: inherit;
 }
 .card2{
   color: inherit;
   position:relative;
-  left: 500px;
+  left: 540px;
   top:100px;
 }
 .card3{
   color:inherit;
   position: relative;
-  left: 900px;
+  left: 960px;
   top: 100px;
 }
 
