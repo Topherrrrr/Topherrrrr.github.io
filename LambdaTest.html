@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <script>
+        function testLambda(){
+            fetch("https://aezv71dbjl.execute-api.us-east-1.amazonaws.com/test/helloworld").then(
+            response=> {
+                return response.json();
+            }).then(users=> {
+                console.log(users);
+            })
+        }
+    </script>
+    <div id="test1">
+        <button onclick='testLambda()' width="200" height="200">Test Lambda</button>
+    </div>
+</html>
