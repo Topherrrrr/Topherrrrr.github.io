@@ -13,39 +13,41 @@
 }
 .bioDiv{
     position: relative;
-    left: 400px;
-    top: -200px;
+    left: 30%;
+    top:  60%;
+    width: 7%;
     border-color: black;
 }
 .bioText{
     position: relative;
-    left: 500px;
-    width:550px;
+    left: 36.5%;
+    width: 40%;
     background-color: white;
     border-top: 10px;
     border-color: black;
     word-wrap: break-word;
     font-family: Helvetica;
-    top:-350px;
     font-size: 15px;
     text-decoration-color: black;
 }
 .card1{
   position:relative;
-  left:120px;
-  top: 100px;
+  left:10%;
+  top: 12%;
+  width: 15%;
   color: inherit;
 }
 .card2{
   color: inherit;
   position:relative;
-  left: 540px;
-  top:100px;
+  left: 40%;
+  top:10%;
+  width: 15%;
 }
 .card3{
   color:inherit;
   position: relative;
-  left: 960px;
-  top: 100px;
+  left: 70%;
+  top: 10%;
 }
 
